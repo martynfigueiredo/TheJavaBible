@@ -6,7 +6,7 @@ package thejavabible;
 
 /**
  *
- * @author marty
+ * @author martynfigueiredo
  */
 public class TheJavaBible {
 
